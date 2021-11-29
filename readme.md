@@ -1,1 +1,1 @@
-Olá, esse arquivo é de texto
+Olá, esse arquivo não é de texto
